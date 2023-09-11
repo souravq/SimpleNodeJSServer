@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 13 Pro",
+      "price": 999.99,
+      "description": "The latest iPhone with a stunning Super Retina XDR display, A15 Bionic chip, and Pro camera system.",
+      "image": "iphone-13-pro.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S22",
+      "price": 899.99,
+      "description": "The flagship Android phone with a powerful Exynos processor and AMOLED display.",
+      "image": "samsung-galaxy-s22.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 6",
+      "price": 799.99,
+      "description": "The Pixel 6 features Google's best camera, fast charging, and pure Android experience.",
+      "image": "google-pixel-6.jpg"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 9 Pro",
+      "price": 899.99,
+      "description": "A flagship killer with a Hasselblad camera system and OxygenOS for smooth performance.",
+      "image": "oneplus-9-pro.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi Mi 11",
+      "price": 699.99,
+      "description": "A budget-friendly flagship phone with a Snapdragon processor and high-refresh-rate display.",
+      "image": "xiaomi-mi-11.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sony Xperia 1 III",
+      "price": 1099.99,
+      "description": "A multimedia powerhouse with a 4K OLED display, Snapdragon 888, and Zeiss optics.",
+      "image": "sony-xperia-1-iii.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Oppo Find X4 Pro",
+      "price": 999.99,
+      "description": "An elegant flagship phone with a powerful camera setup and a vibrant AMOLED display.",
+      "image": "oppo-find-x4-pro.jpg"
+    },
+    {
+      "id": 8,
+      "name": "LG G8 ThinQ",
+      "price": 499.99,
+      "description": "A feature-packed phone with a crystal-clear OLED display and advanced audio capabilities.",
+      "image": "lg-g8-thinq.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Nokia 9 PureView",
+      "price": 399.99,
+      "description": "A photography-focused phone with a penta-lens camera system for stunning photos.",
+      "image": "nokia-9-pureview.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Motorola Moto G Power",
+      "price": 299.99,
+      "description": "A budget-friendly phone with a massive battery for long-lasting performance.",
+      "image": "motorola-moto-g-power.jpg"
+    }
+  ]
+  
